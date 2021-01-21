@@ -1,2 +1,2 @@
-# Collections-Cheatsheets-DS-AI-ML
+# Collections | Cheatsheets | DS-AI-ML
 
